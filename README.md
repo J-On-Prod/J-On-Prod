@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J-On-Prod
 - 👀 I am interested in computer science, music, travel and cinema
-- 🌱 I’m currently learning Node.JS, React, Redux, PostgreSQL
+- 🌱 I’m work on Node.js, React, Powershell, Power Platform
 - 🖥️ I work mainly on web projects, movies and video games
 - 📫 How can you reach me? Send me an email at djjd50@gmail.com
